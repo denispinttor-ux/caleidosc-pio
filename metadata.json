@@ -1,0 +1,8 @@
+{
+  "name": "Confraternização Caleidoscópio 2026",
+  "description": "Convite oficial, confirmação de presença com regras de acompanhantes, kit WhatsApp e painel administrativo da Confraternização 2026 da Escola Infantil Caleidoscópio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
